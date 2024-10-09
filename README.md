@@ -1,0 +1,1 @@
+# plugins-add-replace-affiliate-links-for-amazon
